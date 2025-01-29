@@ -6,8 +6,9 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Sheng Li on GitHub: https://eetose.github.io/
-  logo: "/assets/images/jedi.png"
-  favicon_ico: "/assets/images/favicon.ico"
+
+logo: "/assets/images/jedi.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 
 
