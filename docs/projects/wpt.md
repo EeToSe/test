@@ -1,4 +1,5 @@
 ---
+layout: default
 title: WPT foreign object detection
 parent: Projects
 ---

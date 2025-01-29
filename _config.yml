@@ -11,4 +11,13 @@ logo: "/assets/images/jedi.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 
+search:
+  enabled: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
+
 
