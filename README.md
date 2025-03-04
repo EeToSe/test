@@ -1,4 +1,5 @@
 # just-the-docs-template
+A test repo to host the webpage at https://eetose.github.io/test/
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
